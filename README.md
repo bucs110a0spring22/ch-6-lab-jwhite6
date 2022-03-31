@@ -8,18 +8,21 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+
+In this lab, I learned more about writing the "main" function, using the turtle library to graph results of the 3n+1 expression. I also learned more about iteration and selection.   
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 0
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+
 
 ## REFERENCES:
- < List any outside resources used >
+
+https://docs.python.org/3.7/library/turtle.html#turtle.setworldcoordinateshttps://docs.python.org/3.7/library/turtle.html#turtle.setworldcoordinates
+
+https://www.programiz.com/python-programming/string
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
